@@ -23,16 +23,13 @@ tipo json a un formato utilizado en analisis de datos<br> como lo es el formato 
 	</tr>
 	<tr>
 		<td>
-			<img src="" alt="" width="400">
+			<img src="https://user-images.githubusercontent.com/99376135/213573795-1956f0f4-b710-44a4-a3d0-34d1c121eee0.png" alt="" width="400">
 		</td>
 		<td>
-			<img src="" alt="" width="400">
+			<img src="https://user-images.githubusercontent.com/99376135/213573826-9c4f246c-7e6e-4e1c-9d16-a12c8135b99b.png" alt="" width="400">
 		</td>
 		<td>
-			<img src="" alt="" width="400">
-		</td>
-		<td>
-			<img src="" alt="" width="400">
+			<img src="https://user-images.githubusercontent.com/99376135/213573857-ed59c5ae-993e-4c47-9df7-4473b65cfa0e.png" alt="" width="400">
 		</td>
 	</tr>
 </table>
